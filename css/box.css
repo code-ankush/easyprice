@@ -1,0 +1,35 @@
+.box {
+  margin: 16px auto;
+  max-width: 280px;
+  width: 80vw;
+  height: 320px;
+  border-radius: 24px;
+  max-width: 320px;
+  width: 80vw;
+  height: 380px;
+  /*background: linear-gradient(90deg, #F79533 0%, #F37055 15%, #EF4E7B 30%, #A166AB 44%, #5073B8 58%, #1098AD 72%, #07B39B 86%, #6DBA82 100%);*/
+  background: linear-gradient(to bottom right, deeppink, orangered);
+  /*border: 24px solid;*/
+}
+
+.hopeBanner {
+  /*font-size: 80px;*/
+  /*font-size: 60px;*/
+  font-size: 70px;
+  color: white;
+  font-family: bold;
+  height: 100%;
+}
+
+.hopeBanner_text {
+  /*padding:12px 0 0 24px;*/
+  /*padding: 8px 0 0 2rem;*/
+  padding: 24px 0 0 24px;
+}
+
+
+/*color: #414851;
+  color: #474a4e;
+  color: #424446;
+  color: #343535;
+  color: #333333;*/

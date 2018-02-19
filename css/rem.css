@@ -1,0 +1,41 @@
+@media only screen and (max-height: 560px) {
+  :root {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-height: 520px) {
+  :root {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-height: 480px) {
+  :root {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (max-height: 440px) {
+  :root {
+    font-size: 8px;
+  }
+}
+
+@media only screen and (max-height: 400px) {
+  :root {
+    font-size: 6px;
+  }
+}
+
+@media only screen and (max-height: 360px) {
+  :root {
+    font-size: 4px;
+  }
+}
+
+@media only screen and (max-height: 320px) {
+  :root {
+    font-size: 2px;
+  }
+}

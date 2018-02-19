@@ -1,0 +1,29 @@
+{
+  "name": "EasyPrice.org",
+  "short_name": "EasyPrice",
+  "icons": [{
+    "src": "https://cdn.glitch.com/878801d3-59cb-4eb8-a8e8-d9148cc0f7a2%2Ficon-128x128.png?1517012916968",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "https://cdn.glitch.com/878801d3-59cb-4eb8-a8e8-d9148cc0f7a2%2Ficon-144x144.png?1517012921674",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "https://cdn.glitch.com/878801d3-59cb-4eb8-a8e8-d9148cc0f7a2%2Ficon-152x152.png?1517012926180",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "https://cdn.glitch.com/878801d3-59cb-4eb8-a8e8-d9148cc0f7a2%2Ficon-192x192.png?1517012930280",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "https://cdn.glitch.com/878801d3-59cb-4eb8-a8e8-d9148cc0f7a2%2Ficon-256x256.png?1517012935644",
+      "sizes": "256x256",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#3E4EB8",
+  "theme_color": "#2F3BA2"
+}
